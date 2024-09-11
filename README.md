@@ -4,7 +4,7 @@
 
 </div>
 
-![image](https://github.com/JR-CIEL-1/TP-test-GitHub/assets/133788665/e59b2850-64cf-49b9-be71-e0f98e98661e)
+![image](https://github.com/BTS-CIEL-1/TP-test-GitHub/assets/133788665/e59b2850-64cf-49b9-be71-e0f98e98661e)
 
 
 Suivez les étapes ci-dessous une par une :
